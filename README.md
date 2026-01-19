@@ -82,7 +82,6 @@ public class Task_31_App {
         console.close();
     }
 }
-}
 ```
 
 ## ⚖️ License
